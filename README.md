@@ -11,7 +11,7 @@
 
 💼 Senior Mobile Engineer (iOS Swift, SwiftUI and a bit of Flutter) / Tech Lead at IT Consortium  ➡️ Heading iOS development at Creion
 
-📝 Wannabe writer. I made a social contract to start writing about tech. ➡️ https://medium.com/@hosnysavage23
+📝 Wannabe writer. I made a social contract to start writing about tech. ➡️ [Medium](https://medium.com/@hosnysavage23)
 
 🌱 I am currently pursuing a Google UI/UX certification. My UI/UX portfolio coming soon.
 
@@ -19,4 +19,4 @@
 
 ❤️ I enjoy watching films(they are not movies), TV Shows, football (watching & playing). I workout in my spare time as well
 
-📫 Stay in touch! portfolio, LinkedIn, Twitter.
+📫 Stay in touch! [Portfolio](https://kobbyskywalker.github.io), [LinkedIn](https://www.linkedin.com/in/hosnysavage/), Twitter.
