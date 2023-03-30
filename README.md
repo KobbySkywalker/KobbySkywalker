@@ -5,7 +5,7 @@
 
 -->
 
-ℹ️ My name is Hosny. I am a software engineer wilfully stuck in the mobile world, best buddies with Swift & warming towards flutter. Interested in research. Fascinated by new technologies and UI/UX.
+ℹ️ My name is Hosny. I am a software engineer wilfully stuck in the mobile world, best buddies with Swift & warming towards flutter. Interested in transforming the mobile app space. Fascinated by new technologies and UI/UX.
 
 📌 Accra, GH
 
