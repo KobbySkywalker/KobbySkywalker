@@ -18,6 +18,6 @@ Flutter. Interested in transforming the mobile app space. Fascinated by new tech
 
 👥 I’m looking to collaborate on open-source projects.
 
-❤️ I enjoy watching films(they are not movies), TV Shows, football (watching & playing). I workout in my spare time,
+❤️ I enjoy watching [films](https://letterboxd.com/Kobby_Skywalker/) (they are not movies!), TV Shows, football (watching & playing). I workout in my spare time,
 
 📫 Stay in touch! [Portfolio](https://kobbyskywalker.github.io), [LinkedIn](https://www.linkedin.com/in/hosnysavage/), Twitter.
