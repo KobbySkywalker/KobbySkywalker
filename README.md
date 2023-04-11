@@ -10,7 +10,7 @@ Flutter. Interested in transforming the mobile app space. Fascinated by new tech
 
 📌 Accra, GH
 
-💼 Senior Mobile Engineer (iOS Swift, SwiftUI and a bit of Flutter) / Tech Lead at IT Consortium  ➡️ Heading iOS development at Creion.
+💼 Senior Mobile Engineer (iOS Swift, SwiftUI and a bit of Flutter) / Mobile Lead at IT Consortium  ➡️ VP Engineering and iOS development at Creion.
 
 📝 Wannabe writer. I made a social contract to start writing about tech. ➡️ [Medium](https://medium.com/@hosnysavage23)
 
@@ -18,6 +18,6 @@ Flutter. Interested in transforming the mobile app space. Fascinated by new tech
 
 👥 I’m looking to collaborate on open-source projects.
 
-❤️ I enjoy watching [films](https://letterboxd.com/Kobby_Skywalker/) (they are not movies!), TV Shows, football (watching & playing). I workout in my spare time,
+❤️ I enjoy watching [films](https://letterboxd.com/Kobby_Skywalker/) (they are not movies!), TV Shows, football (watching & playing). I workout in my spare time.
 
 📫 Stay in touch! [Portfolio](https://kobbyskywalker.github.io), [LinkedIn](https://www.linkedin.com/in/hosnysavage/), Twitter.
