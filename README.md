@@ -10,7 +10,7 @@ Flutter. Interested in transforming the mobile app space. Fascinated by new tech
 
 📌 Accra, GH
 
-💼 Senior Mobile Engineer (iOS Swift, SwiftUI and a bit of Flutter) / Mobile Lead at IT Consortium  ➡️ VP Engineering and iOS development at Creion.
+💼 Senior Mobile Engineer (iOS Swift, SwiftUI and a bit of Flutter) / Mobile Lead at IT Consortium  ➡️ VP of Engineering and iOS Engineer at Creion.
 
 📝 Wannabe writer. I made a social contract to start writing about tech. ➡️ [Medium](https://medium.com/@hosnysavage23)
 
